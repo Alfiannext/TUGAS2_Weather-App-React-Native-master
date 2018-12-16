@@ -1,2 +1,8 @@
-# TUGAS2_Weather-App-React-Native-master
-Tugas 2 Pemrograman Mobile/Alfian Ramadhan/2015150012/TI3/smt 7
+Weather App React Native  With Api #tugasmobile2
+Tugas mobile 2 Pemrograman Mobile
+
+Nama		: Faisal Hafiz Varian
+NIM		: 2015150026
+Kelas		: 3
+Semester	: 7
+#TUGASMOBILE2
